@@ -13,3 +13,9 @@ Proje, aşağıdaki temel bileşenlere sahiptir:
 - **Book Borrowing:** Kitap ödünç alma işlemlerini takip eden tablo.
 
 
+![publisher](https://github.com/osmankusoglu/PatikaBackend/assets/130009555/87ef437b-0a3d-483c-9bb0-f7d9f90a07d4)
+![book2cat](https://github.com/osmankusoglu/PatikaBackend/assets/130009555/2ebbc858-ad85-42d5-9113-970ef46eae3e)
+![book_borrowings](https://github.com/osmankusoglu/PatikaBackend/assets/130009555/a99b610b-082a-4f8a-8ee6-970233960e9a)
+![category](https://github.com/osmankusoglu/PatikaBackend/assets/130009555/6139caa3-aee5-46b5-a1e0-43803e63c375)
+![books](https://github.com/osmankusoglu/PatikaBackend/assets/130009555/3e213ebf-ee1f-4c04-a76f-9318b2cfe7a0)
+![authors](https://github.com/osmankusoglu/PatikaBackend/assets/130009555/99c3bd0b-4821-45f1-800f-35a5cbc72e78)
