@@ -3,10 +3,10 @@
 Bu proje, PostgreSQL veritabanını kullanarak bir kütüphane yönetim sistemi oluşturmak için JPA (Java Persistence API) ve Hibernate framework'lerini kullanmaktadır.
 
 # Kullanılan Teknolojiler
--Java
--Spring Boot
--Maven
--PostgreSQL
+- **Java**
+- **Spring Boot**
+- **Maven**
+- **PostgreSQL**
 
 ## Proje Yapısı
 
